@@ -1,0 +1,6 @@
+E:\Users\Cra0kalo\Dropbox\VS\DestinyPKGTool\DestinyPKGTool\DestinyPKGTool\bin\x86\Debug\DestinyPKGTool.exe.config
+E:\Users\Cra0kalo\Dropbox\VS\DestinyPKGTool\DestinyPKGTool\DestinyPKGTool\obj\x86\Debug\DestinyPKGTool.csprojResolveAssemblyReference.cache
+E:\Users\Cra0kalo\Dropbox\VS\DestinyPKGTool\DestinyPKGTool\DestinyPKGTool\bin\x86\Debug\DestinyPKGTool.exe
+E:\Users\Cra0kalo\Dropbox\VS\DestinyPKGTool\DestinyPKGTool\DestinyPKGTool\bin\x86\Debug\DestinyPKGTool.pdb
+E:\Users\Cra0kalo\Dropbox\VS\DestinyPKGTool\DestinyPKGTool\DestinyPKGTool\obj\x86\Debug\DestinyPKGTool.exe
+E:\Users\Cra0kalo\Dropbox\VS\DestinyPKGTool\DestinyPKGTool\DestinyPKGTool\obj\x86\Debug\DestinyPKGTool.pdb
